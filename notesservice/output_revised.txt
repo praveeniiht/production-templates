@@ -1,0 +1,4 @@
+
+testAddNote=false
+testFindAll=true
+testDeleteNote=false
